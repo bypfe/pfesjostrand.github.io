@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PFE</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on PFE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Note of appreciation</title>
+      <link>/post/2018/12/02/note-of-appreciation/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/12/02/note-of-appreciation/</guid>
+      <description>This website was created using the R package blogdown by Yihu Xie. Blogdown is cool becuase it allows easy use of Rmarkdown in the site, which basically means you can embed R code in the site, this is basically quite awesome if you want to discuss and showcase data analysis online. Since I am to impatient to tinker with site themes for the sake of being ‘unique’ it also uses an excellent minimialist theme, hugo-ivy, which was ported by Yihu Xie to Hugo and blogdown from the static website generator Ivy.</description>
+    </item>
+    
+  </channel>
+</rss>
