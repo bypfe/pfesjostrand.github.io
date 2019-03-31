@@ -17,7 +17,7 @@
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>About Filip. Another guy from Sweden. Political science major with a deep interst in data-analysis and communication (marketing, PR, campaigns.).
+      <description>About Filip. Political science major with an interst in data-analysis and communication (electoral and issue campaigning, PR, marketing). Based in th
 Contact me on pfesjostrand@gmail.com, for my resume see LinkedIn.
 About this site. This website was constructed using Hugo and blogdown, an R package built by Yihu Xie, the main benefit is that R code can be written in the contents as in the example below. Pretty neat.
 hi &amp;lt;- function(greeting) { c(greeting) } hi(&amp;#39;Hello world!</description>
